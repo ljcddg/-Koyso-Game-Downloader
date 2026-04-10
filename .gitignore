@@ -1,8 +1,7 @@
 # 忽略所有文件
 *
 
-# 但保留 gamesDown.py
+# 但保留以下文件
 !gamesDown.py
-
-# 同时保留 .gitignore 本身
+!README.md
 !.gitignore
