@@ -1,0 +1,8 @@
+# 忽略所有文件
+*
+
+# 但保留 gamesDown.py
+!gamesDown.py
+
+# 同时保留 .gitignore 本身
+!.gitignore
